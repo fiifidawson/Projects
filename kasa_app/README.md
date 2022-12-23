@@ -1,6 +1,7 @@
 # kasa_app
 
 A new Flutter project.
+Mobile Communication Application for Africans
 
 ## Getting Started
 
