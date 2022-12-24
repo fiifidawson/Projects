@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.kasa_app">
    <application
-        android:label="kasa_app"
+        android:label="Kasa"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
